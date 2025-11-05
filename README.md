@@ -2,12 +2,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awadcoding&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=awadcoding&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
+
+
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anN1eHR2dWVicXphYnNycW4zdHNxYXlnMzdqOWtxaXJlMDNjd200ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/i4MAH84pqe2m2aVojc/giphy.gif"  />
 
@@ -41,9 +38,21 @@
   <a href="https://www.youtube.com/@awadcoding" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="54" height="42" alt="youtube logo"  />
   </a>
+  <a target="_blank" href="mailto:mahmoud.awad.officall@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="42" alt="gmail logo"  />
+   </a>
+  <a target="_blank" href="https://www.instagram.com/awad.coding/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="42" alt="instagram logo"  />
+   </a>
+   <a target="_blank" href="https://www.linkedin.com/in/mahmoudawad11/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="42" alt="linkedin logo"  />
+   </a>
 </div>
 
+
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=awadcoding&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=awadcoding&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 ###
