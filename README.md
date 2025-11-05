@@ -2,10 +2,6 @@
 
 ###
 
-
-
-
-
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anN1eHR2dWVicXphYnNycW4zdHNxYXlnMzdqOWtxaXJlMDNjd200ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/i4MAH84pqe2m2aVojc/giphy.gif"  />
 
 ###
@@ -51,9 +47,10 @@
 
 
 ###
+<br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awadcoding&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="120" alt="stats graph"  />
- 
+  <img  src="https://github-readme-stats.vercel.app/api?username=awadcoding&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="120" alt="stats graph"  />
+   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=awadcoding&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="120" alt="languages graph"  />
 </div>
 
